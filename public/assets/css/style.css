@@ -1,0 +1,40 @@
+.my-header{
+    background-image: url(../images/bg.jpeg);
+   
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* Font Colour */
+    opacity: 0.8;
+    background-color: rgba(7, 1, 1, 0.438);
+
+}
+
+.service{
+    margin-top: 50px;
+    margin-left: 20%;
+}
+
+#carbonads {
+    position: static;
+    display: block;
+    max-width: 400px;
+    padding: 15px 15px 15px 160px;
+    margin: 2rem 0;
+    overflow: hidden;
+    font-size: .8125rem;
+    line-height: 1.4;
+    text-align: left;
+  }
+
+ 
+  .divR {
+    background: #3410fd;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
